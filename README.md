@@ -1,2 +1,4 @@
 # hello-world
-Random hello world thingy
+Random hello
+
+Hello world. I know absolutely nothing about coding.
